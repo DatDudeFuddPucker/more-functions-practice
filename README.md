@@ -79,7 +79,7 @@ console.log(insertDash(454793));
 
 ## Bonus: Handle Bad Input
 
-Add conditions to your function so there is error handling for bad input. For example, if you are expecting an `integer` argument, but you give you function a `string` argument instead, it could print out the message `error: Bad Input! Please try again with an integer.`
+Add conditions to your function so there is error handling for bad input. For example, if you are expecting an `integer` argument, but the function recieves a `string` argument instead, it could print out the message `error: Bad Input! Please try again with an integer.`
 
 ---
 
