@@ -4,7 +4,7 @@
 * Javascript functions
 * Javascript conditionals
 
-### and 0. Digit Sum
+### 0. Digit Sum
 
 Write a function `sumDigits` that accepts a number and returns the sum of its digits.
 
